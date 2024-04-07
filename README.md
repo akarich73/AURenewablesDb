@@ -64,7 +64,7 @@ If you want to support let me know if and how you are using the data.
 Also, let me know if there are any discrepancies or issues here on this GitHub project. 
 
 You can also contribute by providing data to be included in the database. 
-For now there is a basic Excel spreadsheet which can be used to provide data for projects.
+For now there is a basic Excel spreadsheet which can be used to provide data for projects, but please only provide back in CSV file format.
 
 **Note: it must be open source and shareable under the license terms below**
 

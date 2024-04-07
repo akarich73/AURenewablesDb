@@ -2,6 +2,8 @@
 
 An open source structured PostgreSQL & PostGIS database of renewable energy projects in Australia.
 
+![20240407 AURenewablesDb](https://github.com/akarich73/AURenewablesDb/assets/61820266/14fa0e7f-74a4-4d64-a5f7-0b9c8e307a18)
+
 ## Description
 
 The goal of the AU Renewables Database is to provide a consolidated and, in so far as practicable, complete set a of 
@@ -21,12 +23,12 @@ There are a number of ways the data and/or database can be used.
 2. Access in your GIS software of choice via WMS
    - https://qgiscloud.com/akarich73/AURenewablesDb/wms?SERVICE=WMS&REQUEST=GetCapabilities 
 3. Download exported CSV from the database saved here under the Data folder
-4. (TBD) Download and restore a backup of the database onto your own PostgreSQL database
+4. (Coming Soon!) Download and restore a backup of the database onto your own PostgreSQL database
 
 How you use the data is up to you. But some ideas I have for my own work includes:
 * Analysing wind turbine spacing
+* Land usage trends 
 * Forecasting of recycling of wind turbines, PV modules, etc
-* Life extension and repowering
 
 ## Authors
 
@@ -64,11 +66,12 @@ If you want to support let me know if and how you are using the data.
 Also, let me know if there are any discrepancies or issues here on this GitHub project. 
 
 You can also contribute by providing data to be included in the database. 
+
 For now there is a basic Excel spreadsheet which can be used to provide data for projects, but please only provide back in CSV file format.
 
 **Note: it must be open source and shareable under the license terms below**
 
-And if you are so inclined you can 
+And if you are so inclined or use the data for commercial work you can 
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/richardgledhill)
 
 ## License

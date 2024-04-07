@@ -19,7 +19,7 @@ Baking Board Solar Farm,Solar PV - Fixed,Solar - Solar,250.0,Development,,Austra
 Baking Board Solar Farm (MMT),Solar PV - Fixed,Solar - Solar,300.0,Development,,Australia,Queensland,,,,,,,,,{},{},{},{},,{},{},{},{},{},{},{},{}
 Baking Board Solar Farm Chinchilla,Solar PV - Single axis tracking,Solar - Solar,14.7,Operational,,Australia,Queensland,2018-01-09,,,,,,,,{},{},{},{},,{},{},{},{},{},{},{},{}
 Banksia Solar Farm,Solar PV - Single axis tracking,Solar - Solar,60.0,Development,,Australia,Queensland,2025-01-09,,POINT (152.368025 -25.242041),-25.242041,152.368025,,,,{},{},{},{},,{},{},{},{},{},{},{},{}
-Bannerton Solar Park,Solar PV - Single axis tracking,Solar - Solar,100.0,Operational,,Australia,Victoria,2019-01-06,,POINT (142.74523209 -34.6898979),-34.6898979,142.7452321,,,,{},{},{},{},,{},{},{},{},{},{},{},{}
+Bannerton Solar Park,Solar PV - Single axis tracking,Solar - Solar,100.0,Operational,,Australia,Victoria,2019-01-06,,POINT (142.74523209 -34.6898979),-34.6898979,142.74523209,,,,{},{},{},{},,{},{},{},{},{},{},{},{}
 Barcaldine Remote Community Solar Farm,Solar PV - Single axis tracking,Solar - Solar,20.0,Operational,,Australia,Queensland,2017-05-20,,POINT (145.319009 -23.547418),-23.547418,145.319009,"MULTIPOLYGON (((145.31519664131153 -23.542344773828844, 145.32320397686 -23.543217274703537, 145.3218525866065 -23.553647455923695, 145.31583634580446 -23.553261128255542, 145.31619476462703 -23.549597693766426, 145.31428087559556 -23.549381641749815, 145.31519664131153 -23.542344773828844)))",https://diamondenergy.com.au/barcaldine/,"Source:
 Arena Report
 https://esdnews.com.au/sun-always-shines-barcy/
@@ -51,7 +51,7 @@ Bridle Track Solar Project,Solar PV - Single axis tracking,Solar - Solar,300.0,D
 Broadlea Solar Farm,Solar PV - Single axis tracking,Solar - Solar,90.0,Development,,Australia,Queensland,,,POINT (148.2892025 -21.88460185),-21.88460185,148.2892025,,,,{},{},{},{},,{},{},{},{},{},{},{},{}
 Broadsound Solar Farm,Solar PV - Single axis tracking,Solar - Solar,368.0,Development,,Australia,Queensland,,,,,,,,,{},{},{},{},,{},{},{},{},{},{},{},{}
 Brocklehurst Solar Farm,Solar PV - Fixed,Solar - Solar,29.0,Development,,Australia,New South Wales,,,,,,,,,{},{},{},{},,{},{},{},{},{},{},{},{}
-Broken Hill Solar Plant,Solar PV - Fixed,Solar - Solar,53.0,Operational,,Australia,New South Wales,,,POINT (141.39154551 -31.98670743),-31.98670743,141.3915455,,,,{},{},{},{},,{},{},{},{},{},{},{},{}
+Broken Hill Solar Plant,Solar PV - Fixed,Solar - Solar,53.0,Operational,,Australia,New South Wales,,,POINT (141.39154551 -31.98670743),-31.98670743,141.39154551,,,,{},{},{},{},,{},{},{},{},{},{},{},{}
 Bulli Creek Solar Farm (Trina),Solar PV - Fixed,Solar - Solar,450.0,Development,,Australia,Queensland,,,,,,,,,{},{},{},{},,{},{},{},{},{},{},{},{}
 Bulli Creek Solar Farm 1,Solar PV - Single axis tracking,Solar - Solar,675.0,Development,,Australia,Queensland,,,POINT (150.8778832 -28.02108918),-28.02108918,150.8778832,,,,{},{},{},{},,{},{},{},{},{},{},{},{}
 Bulli Creek Solar Farm 2,Solar PV - Single axis tracking,Solar - Solar,1025.0,Development,,Australia,Queensland,,,POINT (150.8778832 -28.02108918),-28.02108918,150.8778832,,,,{},{},{},{},,{},{},{},{},{},{},{},{}
@@ -75,17 +75,17 @@ Carwarp Solar Farm - Stage I,Solar PV - Single axis tracking,Solar - Solar,150.0
 Carwarp Solar Farm - Stage II,Solar PV - Single axis tracking,Solar - Solar,150.0,Development,,Australia,Victoria,,,,,,,,,{},{},{},{},,{},{},{},{},{},{},{},{}
 Cedar Meats Solar Geelong,Solar PV - Fixed,Solar - Solar,0.2,Operational,,Australia,Victoria,,,,,,,,,{},{},{},{},,{},{},{},{},{},{},{},{}
 Chances Plain Solar Farm,Solar PV - Single axis tracking,Solar - Solar,98.01,Development,,Australia,Queensland,,,POINT (149.8096537 -26.62018272),-26.62018272,149.8096537,,,,{},{},{},{},,{},{},{},{},{},{},{},{}
-Childers Solar Farm,Solar PV - Single axis tracking,Solar - Solar,64.38,Operational,,Australia,Queensland,2019-01-06,,POINT (152.40503637 -25.29276553),-25.29276553,152.4050364,,,,{},{},{},{},,{},{},{},{},{},{},{},{}
+Childers Solar Farm,Solar PV - Single axis tracking,Solar - Solar,64.38,Operational,,Australia,Queensland,2019-01-06,,POINT (152.40503637 -25.29276553),-25.29276553,152.40503637,,,,{},{},{},{},,{},{},{},{},{},{},{},{}
 Chillamurra,Solar PV - Fixed,Solar - Solar,4.77,Operational,,Australia,New South Wales,,,,,,,,,{},{},{},{},,{},{},{},{},{},{},{},{}
 Chillamurra Solar Farm,Solar PV - Fixed,Solar - Solar,3.6,Operational,,Australia,Queensland,,,,,,,,,{},{},{},{},,{},{},{},{},{},{},{},{}
 Chinchilla Solar Farm,Solar PV - Single axis tracking,Solar - Solar,113.16,Development,,Australia,Queensland,,,POINT (141.8590739 -12.6476517),-12.6476517,141.8590739,,,,{},{},{},{},,{},{},{},{},{},{},{},{}
 Christies Beach Wastewater Treatment Plant - Solar,Solar PV - Single axis tracking,Solar - Solar,4.8,Operational,,Australia,South Australia,2022-01-10,,,,,,,,{},{},{},{},,{},{},{},{},{},{},{},{}
 Churchill Abattoir,Solar PV - Fixed,Solar - Solar,0.91,Operational,,Australia,Queensland,,,,,,,,,{},{},{},{},,{},{},{},{},{},{},{},{}
 Cimitiere Plains Solar Farm,Solar PV - Fixed,Solar - Solar,288.12,Development,,Australia,Tasmania,,,,,,,,,{},{},{},{},,{},{},{},{},{},{},{},{}
-Clare Solar Farm,Solar PV - Single axis tracking,Solar - Solar,110.4,Operational,,Australia,Queensland,,,POINT (147.21054204 -19.83977039),-19.83977039,147.210542,,,,{},{},{},{},,{},{},{},{},{},{},{},{}
-Clermont Solar Farm,Solar PV - Single axis tracking,Solar - Solar,92.5,Operational,,Australia,Queensland,2019-01-03,,POINT (147.58552341 -22.84464393),-22.84464393,147.5855234,,,,{},{},{},{},,{},{},{},{},{},{},{},{}
+Clare Solar Farm,Solar PV - Single axis tracking,Solar - Solar,110.4,Operational,,Australia,Queensland,,,POINT (147.21054204 -19.83977039),-19.83977039,147.21054204,,,,{},{},{},{},,{},{},{},{},{},{},{},{}
+Clermont Solar Farm,Solar PV - Single axis tracking,Solar - Solar,92.5,Operational,,Australia,Queensland,2019-01-03,,POINT (147.58552341 -22.84464393),-22.84464393,147.58552341,,,,{},{},{},{},,{},{},{},{},{},{},{},{}
 Cohuna Solar Farm,Solar PV - Single axis tracking,Solar - Solar,31.16,Operational,,Australia,Victoria,,,,,,,,,{},{},{},{},,{},{},{},{},{},{},{},{}
-Coleambally Solar Farm,Solar PV - Single axis tracking,Solar - Solar,150.3,Operational,,Australia,New South Wales,,,POINT (145.95339659 -34.74343877),-34.74343877,145.9533966,,,,{},{},{},{},,{},{},{},{},{},{},{},{}
+Coleambally Solar Farm,Solar PV - Single axis tracking,Solar - Solar,150.3,Operational,,Australia,New South Wales,,,POINT (145.95339659 -34.74343877),-34.74343877,145.95339659,,,,{},{},{},{},,{},{},{},{},{},{},{},{}
 Collinsville PV,Solar PV - Fixed,Solar - Solar,42.5,Operational,,Australia,Queensland,2018-01-08,,POINT (147.810373 -20.546114),-20.546114,147.810373,,,,{},{},{},{},,{},{},{},{},{},{},{},{}
 Columboola Solar Farm,Solar PV - Single axis tracking,Solar - Solar,217.25,Operational,,Australia,Queensland,2023-01-10,,,,,,,,{},{},{},{},,{},{},{},{},{},{},{},{}
 Cooba Solar Farm,Solar PV - Single axis tracking,Solar - Solar,270.0,Development,,Australia,Victoria,2026-01-12,,,,,,,,{},{},{},{},,{},{},{},{},{},{},{},{}
@@ -101,7 +101,7 @@ Dalby Solar Farm,Solar PV - Fixed,Solar - Solar,4.94,Development,,Australia,Quee
 Darling Downs Solar Farm,Solar PV - Fixed,Solar - Solar,121.0,Operational,,Australia,Queensland,,,POINT (150.881921 -27.112668),-27.112668,150.881921,,,,{},{},{},{},,{},{},{},{},{},{},{},{}
 Darlington Point Solar Farm,Solar PV - Single axis tracking,Solar - Solar,274.97,Operational,,Australia,New South Wales,2021-01-04,,POINT (146.054976 -34.647597),-34.647597,146.054976,,,,{},{},{},{},,{},{},{},{},{},{},{},{}
 Daroobalgie Solar Farm,Solar PV - Single axis tracking,Solar - Solar,,Development,,Australia,New South Wales,,,,,,,,,{},{},{},{},,{},{},{},{},{},{},{},{}
-Daydream Solar Farm,Solar PV - Single axis tracking,Solar - Solar,167.75,Operational,,Australia,Queensland,,,POINT (147.77066064 -20.49473778),-20.49473778,147.7706606,,,,{},{},{},{},,{},{},{},{},{},{},{},{}
+Daydream Solar Farm,Solar PV - Single axis tracking,Solar - Solar,167.75,Operational,,Australia,Queensland,,,POINT (147.77066064 -20.49473778),-20.49473778,147.77066064,,,,{},{},{},{},,{},{},{},{},{},{},{},{}
 De Bortoli Wines,Solar PV - Fixed,Solar - Solar,0.23,Operational,,Australia,New South Wales,,,,,,,,,{},{},{},{},,{},{},{},{},{},{},{},{}
 Derby Solar Farm,Solar PV - Single axis tracking,Solar - Solar,95.1,Development,,Australia,Victoria,2025-01-03,,,,,,,,{},{},{},{},,{},{},{},{},{},{},{},{}
 DHL6 Solar Horsley Park,Solar PV - Fixed,Solar - Solar,0.1,Operational,,Australia,New South Wales,,,,,,,,,{},{},{},{},,{},{},{},{},{},{},{},{}
@@ -118,9 +118,9 @@ Dysart Solar Farm RED,Solar PV - Fixed,Solar - Solar,100.0,Development,,Australi
 Edderton Hybrid Faciility - Solar,Solar PV - Fixed,Solar - Solar,350.28,Development,,Australia,New South Wales,,,,,,,,,{},{},{},{},,{},{},{},{},{},{},{},{}
 Edenvale Solar Park,Solar PV - Single axis tracking,Solar - Solar,180.0,Operational,,Australia,Queensland,2024-01-03,,,,,,,,{},{},{},{},,{},{},{},{},{},{},{},{}
 Elaine Solar Farm & BESS Hybrid,Solar PV - Fixed,Solar - Solar,125.0,Development,,Australia,Victoria,,,,,,,,,{},{},{},{},,{},{},{},{},{},{},{},{}
-Emerald Solar Park,Solar PV - Single axis tracking,Solar - Solar,72.0,Operational,,Australia,Queensland,2019-01-02,,POINT (148.13471483 -23.5083648),-23.5083648,148.1347148,,,,{},{},{},{},,{},{},{},{},{},{},{},{}
-Emu Downs Solar Farm,Solar PV - Single axis tracking,Solar - Solar,,Operational,,Australia,Western Australia,,,POINT (115.4162424 -30.4891741),,,,https://www.apa.com.au/our-services/other-energy-services/wind-and-solar-farms/emu-downs-solar-farm/,,{},{},{},{},,{},{},{},{},{},{},{},{}
-Esperance Hybrid Power Station - Solar,Solar PV - Single axis tracking,Solar - Solar,4.0,Operational,,Australia,Western Australia,,,POINT (121.8377809 -33.7588564),,,,,,{},{},{},{},,{},{},{},{},{},{},{},{}
+Emerald Solar Park,Solar PV - Single axis tracking,Solar - Solar,72.0,Operational,,Australia,Queensland,2019-01-02,,POINT (148.13471483 -23.5083648),-23.5083648,148.13471483,,,,{},{},{},{},,{},{},{},{},{},{},{},{}
+Emu Downs Solar Farm,Solar PV - Single axis tracking,Solar - Solar,,Operational,,Australia,Western Australia,,,POINT (115.4162424 -30.4891741),-30.4891741,115.4162424,,https://www.apa.com.au/our-services/other-energy-services/wind-and-solar-farms/emu-downs-solar-farm/,,{},{},{},{},,{},{},{},{},{},{},{},{}
+Esperance Hybrid Power Station - Solar,Solar PV - Single axis tracking,Solar - Solar,4.0,Operational,,Australia,Western Australia,,,POINT (121.8377809 -33.7588564),-33.7588564,121.8377809,,,,{},{},{},{},,{},{},{},{},{},{},{},{}
 Eurimbula Solar Farm,Solar PV - Single axis tracking,Solar - Solar,,Development,,Australia,Queensland,,,,,,,,,{},{},{},{},,{},{},{},{},{},{},{},{}
 Finley Solar Farm,Solar PV - Single axis tracking,Solar - Solar,162.36,Operational,,Australia,New South Wales,2019-01-11,,POINT (145.508523 -35.644788),-35.644788,145.508523,,,,{},{},{},{},,{},{},{},{},{},{},{},{}
 Flavorite Marketing,Solar PV - Fixed,Solar - Solar,0.15,Operational,,Australia,Victoria,,,,,,,,,{},{},{},{},,{},{},{},{},{},{},{},{}
@@ -135,7 +135,7 @@ Fulham Solar Farm - BESS,Storage - Battery,Solar - Solar,64.8,Development,,Austr
 Fulham Solar Farm - Solar,Solar PV - Single axis tracking,Solar - Solar,100.8,Development,,Australia,Victoria,,,,,,,,,{},{},{},{},,{},{},{},{},{},{},{},{}
 Galore Hybrid Facility - Solar,Solar PV - Fixed,Solar - Solar,380.16,Development,,Australia,New South Wales,,,,,,,,,{},{},{},{},,{},{},{},{},{},{},{},{}
 Gangarri Solar Farm,Solar PV - Single axis tracking,Solar - Solar,162.0,Operational,,Australia,Queensland,,,POINT (149.748705 -26.267891),-26.267891,149.748705,,,,{},{},{},{},,{},{},{},{},{},{},{},{}
-Gannawarra Solar Farm,Solar PV - Single axis tracking,Solar - Solar,55.0,Operational,,Australia,Victoria,,,POINT (143.45531935 -35.67615395),-35.67615395,143.4553194,,,,{},{},{},{},,{},{},{},{},{},{},{},{}
+Gannawarra Solar Farm,Solar PV - Single axis tracking,Solar - Solar,55.0,Operational,,Australia,Victoria,,,POINT (143.45531935 -35.67615395),-35.67615395,143.45531935,,,,{},{},{},{},,{},{},{},{},{},{},{},{}
 Geranium Plains Solar and BESS - Solar,Solar PV - Single axis tracking,Solar - Solar,250.0,Development,,Australia,South Australia,,,,,,,,,{},{},{},{},,{},{},{},{},{},{},{},{}
 Gidginbung,Solar PV - Fixed,Solar - Solar,15.0,Development,,Australia,New South Wales,,,,,,,,,{},{},{},{},,{},{},{},{},{},{},{},{}
 Girgarre Solar Farm,Solar PV - Single axis tracking,Solar - Solar,93.48,Development,,Australia,Victoria,2024-01-12,,,,,,,,{},{},{},{},,{},{},{},{},{},{},{},{}
@@ -149,18 +149,18 @@ Gregadoo Solar Farm,Solar PV - Fixed,Solar - Solar,45.0,Development,,Australia,N
 Griffith Solar Farm,Solar PV - Single axis tracking,Solar - Solar,30.0,Operational,,Australia,New South Wales,,,POINT (146.109415 -34.315532),-34.315532,146.109415,,,,{},{},{},{},,{},{},{},{},{},{},{},{}
 Group Linen - Maryborough,Solar PV - Fixed,Solar - Solar,0.17,Development,,Australia,Queensland,2018-01-07,,,,,,,,{},{},{},{},,{},{},{},{},{},{},{},{}
 Group Linen - Prince Charles,Solar PV - Fixed,Solar - Solar,0.33,Development,,Australia,Queensland,2018-01-11,,,,,,,,{},{},{},{},,{},{},{},{},{},{},{},{}
-Gullen Range Solar Farm,Solar PV - Fixed,Solar - Solar,10.0,Operational,,Australia,New South Wales,,,POINT (149.45974332 -34.61491677),-34.61491677,149.4597433,,,,{},{},{},{},,{},{},{},{},{},{},{},{}
+Gullen Range Solar Farm,Solar PV - Fixed,Solar - Solar,10.0,Operational,,Australia,New South Wales,,,POINT (149.45974332 -34.61491677),-34.61491677,149.45974332,,,,{},{},{},{},,{},{},{},{},{},{},{},{}
 Gundary Solar Farm - Solar,Solar PV - Fixed,Solar - Solar,400.0,Development,,Australia,New South Wales,,,,,,,,,{},{},{},{},,{},{},{},{},{},{},{},{}
 Gunnedah Solar Farm,Solar PV - Single axis tracking,Solar - Solar,110.0,Operational,,Australia,New South Wales,2021-01-10,,POINT (150.345351 -30.949586),-30.949586,150.345351,,,,{},{},{},{},,{},{},{},{},{},{},{},{}
 Gunning Solar Farm (Canadian) - Solar,Solar PV - Fixed,Solar - Solar,,Development,,Australia,New South Wales,,,,,,,,,{},{},{},{},,{},{},{},{},{},{},{},{}
 Gunsynd Solar Farm,Solar PV - Fixed,Solar - Solar,94.0,Development,,Australia,Queensland,2022-01-12,,POINT (150.3431601 -28.40940301),-28.40940301,150.3431601,,,,{},{},{},{},,{},{},{},{},{},{},{},{}
 GV Community Energy,Solar PV - Fixed,Solar - Solar,12.0,Development,,Australia,Victoria,,,,,,,,,{},{},{},{},,{},{},{},{},{},{},{},{}
-Hamilton Solar Farm,Solar PV - Single axis tracking,Solar - Solar,57.5,Operational,,Australia,Queensland,,,POINT (147.76707962 -20.50481938),-20.50481938,147.7670796,,,,{},{},{},{},,{},{},{},{},{},{},{},{}
+Hamilton Solar Farm,Solar PV - Single axis tracking,Solar - Solar,57.5,Operational,,Australia,Queensland,,,POINT (147.76707962 -20.50481938),-20.50481938,147.76707962,,,,{},{},{},{},,{},{},{},{},{},{},{},{}
 Happy Valley Reservoir,Solar PV - Single axis tracking,Solar - Solar,8.34,Operational,,Australia,South Australia,2022-01-09,,,,,,,,{},{},{},{},,{},{},{},{},{},{},{},{}
 Harlin Solar Farm - Solar,Solar PV - Single axis tracking,Solar - Solar,400.0,Development,,Australia,Queensland,,,,,,,,,{},{},{},{},,{},{},{},{},{},{},{},{}
 Haughton Solar Farm Stage 1,Solar PV - Single axis tracking,Solar - Solar,132.6,Operational,,Australia,Queensland,2020-01-09,,POINT (147.04851 -19.7485),-19.7485,147.04851,,,,{},{},{},{},,{},{},{},{},{},{},{},{}
 Hay Sun Farm,Solar PV - Single axis tracking,Solar - Solar,110.0,Development,,Australia,New South Wales,,,,,,,,,{},{},{},{},,{},{},{},{},{},{},{},{}
-Hayman Solar Farm,Solar PV - Single axis tracking,Solar - Solar,57.75,Operational,,Australia,Queensland,,,POINT (147.74493351 -20.48766837),-20.48766837,147.7449335,,,,{},{},{},{},,{},{},{},{},{},{},{},{}
+Hayman Solar Farm,Solar PV - Single axis tracking,Solar - Solar,57.75,Operational,,Australia,Queensland,,,POINT (147.74493351 -20.48766837),-20.48766837,147.74493351,,,,{},{},{},{},,{},{},{},{},{},{},{},{}
 Hazelwood North Solar Farm,Solar PV - Fixed,Solar - Solar,480.0,Development,,Australia,Victoria,,,,,,,,,{},{},{},{},,{},{},{},{},{},{},{},{}
 Hillston Sun Farm,Solar PV - Single axis tracking,Solar - Solar,110.0,Operational,,Australia,New South Wales,2022-01-07,,POINT (145.52427 -33.52372),-33.52372,145.52427,,,,{},{},{},{},,{},{},{},{},{},{},{},{}
 Hopeland Solar Farm ,Solar PV - Fixed,Solar - Solar,2480.0,Development,,Australia,Queensland,,,,,,,,,{},{},{},{},,{},{},{},{},{},{},{},{}
@@ -195,7 +195,7 @@ Lake Awoonga (Site B) Solar Farm - Solar,Solar PV - Single axis tracking,Solar -
 Lakeland Solar and Storage,Solar PV - Fixed,Solar - Solar,10.8,Operational,,Australia,Queensland,,,,,,,,,{},{},{},{},,{},{},{},{},{},{},{},{}
 Latitude Solar Farm,Solar PV - Fixed,Solar - Solar,5.0,Development,,Australia,Queensland,,,,,,,,,{},{},{},{},,{},{},{},{},{},{},{},{}
 Latrobe Solar Farm,Solar PV - Single axis tracking,Solar - Solar,400.0,Development,,Australia,Victoria,,,POINT (144.3590996 -23.44661076),-23.44661076,144.3590996,,,,{},{},{},{},,{},{},{},{},{},{},{},{}
-Lilyvale Solar Farm,Solar PV - Single axis tracking,Solar - Solar,118.4,Operational,,Australia,Queensland,2022-01-01,,POINT (148.43900084 -23.08747286),-23.08747286,148.4390008,,,,{},{},{},{},,{},{},{},{},{},{},{},{}
+Lilyvale Solar Farm,Solar PV - Single axis tracking,Solar - Solar,118.4,Operational,,Australia,Queensland,2022-01-01,,POINT (148.43900084 -23.08747286),-23.08747286,148.43900084,,,,{},{},{},{},,{},{},{},{},{},{},{},{}
 Limondale Solar Farm 1,Solar PV - Single axis tracking,Solar - Solar,230.0,Operational,,Australia,New South Wales,2022-01-12,,,,,,,,{},{},{},{},,{},{},{},{},{},{},{},{}
 Limondale Solar Farm 2,Solar PV - Single axis tracking,Solar - Solar,28.98,Operational,,Australia,New South Wales,2023-01-04,,POINT (143.49422 -34.80568),-34.80568,143.49422,,,,{},{},{},{},,{},{},{},{},{},{},{},{}
 Little River Solar Farm,Solar PV - Fixed,Solar - Solar,279.0,Development,,Australia,Victoria,,,,,,,,,{},{},{},{},,{},{},{},{},{},{},{},{}
@@ -206,13 +206,13 @@ Lockhart Hybrid Facility - Solar,Solar PV - Single axis tracking,Solar - Solar,1
 Lockyer Valley Energy Project - BESS,Storage - Battery,Solar - Solar,400.0,Development,,Australia,Queensland,,,POINT (152.27634 -27.5359),-27.5359,152.27634,,,,{},{},{},{},,{},{},{},{},{},{},{},{}
 Longreach Solar Farm,Solar PV - Fixed,Solar - Solar,14.0,Operational,,Australia,Queensland,,,POINT (144.35924 -23.44638),-23.44638,144.35924,,,,{},{},{},{},,{},{},{},{},{},{},{},{}
 Lower Wonga Solar Farm,Solar PV - Fixed,Solar - Solar,300.0,Development,,Australia,Queensland,,,POINT (152.4497502 -26.09877951),-26.09877951,152.4497502,,,,{},{},{},{},,{},{},{},{},{},{},{},{}
-Manildra Solar Farm,Solar PV - Single axis tracking,Solar - Solar,50.0,Operational,,Australia,New South Wales,2018-01-12,,POINT (148.718325548912 -33.1730321644393),-33.17303216,148.7183255,,,,{},{},{},{},,{},{},{},{},{},{},{},{}
+Manildra Solar Farm,Solar PV - Single axis tracking,Solar - Solar,50.0,Operational,,Australia,New South Wales,2018-01-12,,POINT (148.718325548912 -33.1730321644393),-33.1730321644393,148.718325548912,,,,{},{},{},{},,{},{},{},{},{},{},{},{}
 Mannum Adelaide Pumping Station No 2 - MAPL2 (Palmer),Solar PV - Single axis tracking,Solar - Solar,16.8,Operational,,Australia,South Australia,2022-01-05,,POINT (139.1642617 -34.8574032),-34.8574032,139.1642617,,,,{},{},{},{},,{},{},{},{},{},{},{},{}
 Mannum Adelaide Pumping Station No 3 - MAPL3 (Tungkillo),Solar PV - Single axis tracking,Solar - Solar,12.36,Operational,,Australia,South Australia,2023-01-01,,,,,,,,{},{},{},{},,{},{},{},{},{},{},{},{}
 Mannum Solar Farm,Solar PV - Single axis tracking,Solar - Solar,4.95,Operational,,Australia,South Australia,2019-01-12,,,,,,,,{},{},{},{},,{},{},{},{},{},{},{},{}
 Mannum Solar Farm 2,Solar PV - Single axis tracking,Solar - Solar,29.99,Development,,Australia,South Australia,2024-01-02,,,,,,,,{},{},{},{},,{},{},{},{},{},{},{},{}
 Mansfield Solar Farm - Solar,Solar PV - Fixed,Solar - Solar,350.0,Development,,Australia,Victoria,,,,,,,,,{},{},{},{},,{},{},{},{},{},{},{},{}
-Maryrorough Solar Farm,Solar PV - Single axis tracking,Solar - Solar,34.5,Operational,,Australia,Queensland,2021-01-03,,POINT (152.71709609 -25.54758801),-25.54758801,152.7170961,,,,{},{},{},{},,{},{},{},{},{},{},{},{}
+Maryrorough Solar Farm,Solar PV - Single axis tracking,Solar - Solar,34.5,Operational,,Australia,Queensland,2021-01-03,,POINT (152.71709609 -25.54758801),-25.54758801,152.71709609,,,,{},{},{},{},,{},{},{},{},{},{},{},{}
 Maryvale Solar Farm,Solar PV - Single axis tracking,Solar - Solar,125.0,Development,,Australia,New South Wales,,,,,,,,,{},{},{},{},,{},{},{},{},{},{},{},{}
 Mates Gully Solar Farm,Solar PV - Single axis tracking,Solar - Solar,,Development,,Australia,New South Wales,2027-01-06,,,,,,,,{},{},{},{},,{},{},{},{},{},{},{},{}
 Matthew Flinders College Senior,Solar PV - Fixed,Solar - Solar,0.2,Development,,Australia,Queensland,2018-01-09,,,,,,,,{},{},{},{},,{},{},{},{},{},{},{},{}
@@ -275,9 +275,9 @@ North Burnett Renewable Hub - Solar,Solar PV - Fixed,Solar - Solar,720.0,Develop
 Northern Midlands Solar Farm,Solar PV - Fixed,Solar - Solar,289.8,Development,,Australia,Tasmania,,,,,,,,,{},{},{},{},,{},{},{},{},{},{},{},{}
 Nottingham Park Solar Farm,Solar PV - Fixed,Solar - Solar,210.0,Development,,Australia,New South Wales,,,,,,,,,{},{},{},{},,{},{},{},{},{},{},{},{}
 Nowingi Solar Storage - Solar,Solar PV - Single axis tracking,Solar - Solar,250.0,Development,,Australia,Victoria,,,,,,,,,{},{},{},{},,{},{},{},{},{},{},{},{}
-Numurkah Solar Farm,Solar PV - Single axis tracking,Solar - Solar,66.79,Operational,,Australia,Victoria,2019-01-08,,POINT (145.47455201 -36.15924846),-36.15924846,145.474552,,,,{},{},{},{},,{},{},{},{},{},{},{},{}
+Numurkah Solar Farm,Solar PV - Single axis tracking,Solar - Solar,66.79,Operational,,Australia,Victoria,2019-01-08,,POINT (145.47455201 -36.15924846),-36.15924846,145.47455201,,,,{},{},{},{},,{},{},{},{},{},{},{},{}
 Numurkah Solar Farm,Solar PV - Single axis tracking,Solar - Solar,34.3,Operational,,Australia,Victoria,2019-01-08,,,,,,,,{},{},{},{},,{},{},{},{},{},{},{},{}
-Nyngan Solar Plant,Solar PV - Fixed,Solar - Solar,102.03,Operational,,Australia,New South Wales,,,POINT (147.08535195 -31.55274036),-31.55274036,147.085352,,,,{},{},{},{},,{},{},{},{},{},{},{},{}
+Nyngan Solar Plant,Solar PV - Fixed,Solar - Solar,102.03,Operational,,Australia,New South Wales,,,POINT (147.08535195 -31.55274036),-31.55274036,147.08535195,,,,{},{},{},{},,{},{},{},{},{},{},{},{}
 Oakey 2 Solar Farm,Solar PV - Single axis tracking,Solar - Solar,55.64,Operational,,Australia,Queensland,2022-01-04,,POINT (151.6336956 -27.409398),-27.409398,151.6336956,,,,{},{},{},{},,{},{},{},{},{},{},{},{}
 Oakey Solar Farm,Solar PV - Fixed,Solar - Solar,25.0,Operational,,Australia,Queensland,2019-01-08,,,,,,,,{},{},{},{},,{},{},{},{},{},{},{},{}
 Oakville Solar Farm,Solar PV - Fixed,Solar - Solar,450.0,Development,,Australia,Queensland,,,,,,,,,{},{},{},{},,{},{},{},{},{},{},{},{}
@@ -285,7 +285,7 @@ Orange Grove Sun Farm,Solar PV - Single axis tracking,Solar - Solar,80.0,Develop
 Oxley Solar Farm,Solar PV - Fixed,Solar - Solar,300.0,Development,,Australia,New South Wales,,,,,,,,,{},{},{},{},,{},{},{},{},{},{},{},{}
 Parkes Shire Council STP,Solar PV - Fixed,Solar - Solar,0.11,Operational,,Australia,New South Wales,,,,,,,,,{},{},{},{},,{},{},{},{},{},{},{},{}
 Parkes Shire Council WTP,Solar PV - Fixed,Solar - Solar,0.11,Operational,,Australia,New South Wales,,,,,,,,,{},{},{},{},,{},{},{},{},{},{},{},{}
-Parkes Solar Farm,Solar PV - Single axis tracking,Solar - Solar,55.0,Operational,,Australia,New South Wales,,,POINT (148.07498992 -33.10273408),-33.10273408,148.0749899,,,,{},{},{},{},,{},{},{},{},{},{},{},{}
+Parkes Solar Farm,Solar PV - Single axis tracking,Solar - Solar,55.0,Operational,,Australia,New South Wales,,,POINT (148.07498992 -33.10273408),-33.10273408,148.07498992,,,,{},{},{},{},,{},{},{},{},{},{},{},{}
 Peninsula Solar Farm - Solar,Solar PV - Single axis tracking,Solar - Solar,80.0,Development,,Australia,New South Wales,,,,,,,,,{},{},{},{},,{},{},{},{},{},{},{},{}
 Penrith RSL Solar,Solar PV - Fixed,Solar - Solar,0.2,Operational,,Australia,New South Wales,,,,,,,,,{},{},{},{},,{},{},{},{},{},{},{},{}
 Peterborough Solar Farm,Solar PV - Single axis tracking,Solar - Solar,4.9,Operational,,Australia,South Australia,,,,,,,,,{},{},{},{},,{},{},{},{},{},{},{},{}
@@ -351,7 +351,7 @@ Stockland Development Wetherill Park,Solar PV - Fixed,Solar - Solar,0.93,Operati
 Stubbo Solar Farm,Solar PV - Single axis tracking,Solar - Solar,400.0,Development,,Australia,New South Wales,2024-01-07,,,,,,,,{},{},{},{},,{},{},{},{},{},{},{},{}
 Summerhill Solar Farm,Solar PV - Fixed,Solar - Solar,5.0,Development,,Australia,New South Wales,,,,,,,,,{},{},{},{},,{},{},{},{},{},{},{},{}
 Summerville Solar Farm,Solar PV - Fixed,Solar - Solar,,Development,,Australia,New South Wales,,,,,,,,,{},{},{},{},,{},{},{},{},{},{},{},{}
-Sun Metals Corporation Solar Farm,Solar PV - Fixed,Solar - Solar,143.0,Operational,,Australia,Queensland,,,POINT (146.88849659 -19.33545611),-19.33545611,146.8884966,,,,{},{},{},{},,{},{},{},{},{},{},{},{}
+Sun Metals Corporation Solar Farm,Solar PV - Fixed,Solar - Solar,143.0,Operational,,Australia,Queensland,,,POINT (146.88849659 -19.33545611),-19.33545611,146.88849659,,,,{},{},{},{},,{},{},{},{},{},{},{},{}
 Sundown SF(Canadian Solar),Solar PV - Fixed,Solar - Solar,360.0,Development,,Australia,New South Wales,,,,,,,,,{},{},{},{},,{},{},{},{},{},{},{},{}
 Sundown Solar Farm,Solar PV - Fixed,Solar - Solar,600.0,Development,,Australia,New South Wales,,,,,,,,,{},{},{},{},,{},{},{},{},{},{},{},{}
 Sunraysia Solar Farm,Solar PV - Single axis tracking,Solar - Solar,228.8,Operational,,Australia,New South Wales,2021-01-12,,POINT (143.5087952 -34.8215156),-34.8215156,143.5087952,,,,{},{},{},{},,{},{},{},{},{},{},{},{}
@@ -421,12 +421,12 @@ Wattle Creek Energy Hub - Solar,Solar PV - Fixed,Solar - Solar,265.0,Development
 Wellington North Solar Farm,Solar PV - Fixed,Solar - Solar,,Development,,Australia,New South Wales,,,,,,,,,{},{},{},{},,{},{},{},{},{},{},{},{}
 Wellington North Solar Farm (Lightsource),Solar PV - Single axis tracking,Solar - Solar,436.8,Development,,Australia,New South Wales,2024-01-10,,,,,,,,{},{},{},{},,{},{},{},{},{},{},{},{}
 Wellington Solar Farm,Solar PV - Single axis tracking,Solar - Solar,216.08,Operational,,Australia,New South Wales,2023-01-05,,POINT (148.960518 -32.515612),-32.515612,148.960518,,,,{},{},{},{},,{},{},{},{},{},{},{},{}
-Wemen Solar Farm,Solar PV - Single axis tracking,Solar - Solar,97.5,Operational,,Australia,Victoria,2019-01-03,,POINT (142.54565369 -34.8026763),-34.8026763,142.5456537,,,,{},{},{},{},,{},{},{},{},{},{},{},{}
+Wemen Solar Farm,Solar PV - Single axis tracking,Solar - Solar,97.5,Operational,,Australia,Victoria,2019-01-03,,POINT (142.54565369 -34.8026763),-34.8026763,142.54565369,,,,{},{},{},{},,{},{},{},{},{},{},{},{}
 West Mokoan Solar Farm,Solar PV - Single axis tracking,Solar - Solar,400.0,Development,,Australia,Victoria,,,,,,,,,{},{},{},{},,{},{},{},{},{},{},{},{}
 West Wyalong Solar Farm,Solar PV - Single axis tracking,Solar - Solar,105.27,Operational,,Australia,New South Wales,2022-01-12,,,,,,,,{},{},{},{},,{},{},{},{},{},{},{},{}
 Western Downs Green Power Hub P/L,Solar PV - Single axis tracking,Solar - Solar,399.97,Operational,,Australia,Queensland,2023-01-01,,POINT (150.67891 -26.95839),-26.95839,150.67891,,,,{},{},{},{},,{},{},{},{},{},{},{},{}
-White Rock Solar Farm,Solar PV - Fixed,Solar - Solar,20.0,Operational,,Australia,New South Wales,,,POINT (151.55354553 -29.76476312),-29.76476312,151.5535455,,,,{},{},{},{},,{},{},{},{},{},{},{},{}
-Whitsunday Solar Farm,Solar PV - Single axis tracking,Solar - Solar,57.5,Operational,,Australia,Queensland,,,POINT (147.74806297 -20.49488275),-20.49488275,147.748063,,,,{},{},{},{},,{},{},{},{},{},{},{},{}
+White Rock Solar Farm,Solar PV - Fixed,Solar - Solar,20.0,Operational,,Australia,New South Wales,,,POINT (151.55354553 -29.76476312),-29.76476312,151.55354553,,,,{},{},{},{},,{},{},{},{},{},{},{},{}
+Whitsunday Solar Farm,Solar PV - Single axis tracking,Solar - Solar,57.5,Operational,,Australia,Queensland,,,POINT (147.74806297 -20.49488275),-20.49488275,147.74806297,,,,{},{},{},{},,{},{},{},{},{},{},{},{}
 Whyalla,Solar PV - Fixed,Solar - Solar,140.0,Development,,Australia,South Australia,,,POINT (148.339616 -23.031527),-23.031527,148.339616,,,,{},{},{},{},,{},{},{},{},{},{},{},{}
 Willavale Solar Farm,Solar PV - Fixed,Solar - Solar,50.0,Development,,Australia,New South Wales,,,,,,,,,{},{},{},{},,{},{},{},{},{},{},{},{}
 Williamsdale Solar Farm,Solar PV - Single axis tracking,Solar - Solar,6.8,Operational,,Australia,New South Wales,,,,,,,,,{},{},{},{},,{},{},{},{},{},{},{},{}

@@ -1,4 +1,4 @@
-# AU Renewables Database
+# AU Renewables Database DEPRECATED
 
 An open source structured PostgreSQL & PostGIS database of renewable energy projects in Australia.
 

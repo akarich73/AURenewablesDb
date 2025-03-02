@@ -18,12 +18,8 @@ effort to check and fill in missing data I decided to share it for others to hop
 
 There are a number of ways the data and/or database can be used.
 
-1. Access online via QGISCloud
-   - https://qgiscloud.com/akarich73/AURenewablesDb/?
-2. Access in your GIS software of choice via WMS
-   - https://qgiscloud.com/akarich73/AURenewablesDb/wms?SERVICE=WMS&REQUEST=GetCapabilities 
-3. Download exported CSV from the database saved here under the Data folder
-4. (Coming Soon!) Download and restore a backup of the database onto your own PostgreSQL database
+1. Download exported CSV from the database saved here under the Data folder
+2. (Coming Soon!) Download and restore a backup of the database onto your own PostgreSQL database
 
 How you use the data is up to you. But some ideas I have for my own work includes:
 * Analysing wind turbine spacing
